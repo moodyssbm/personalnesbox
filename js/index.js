@@ -2,7 +2,7 @@ let link = document.getElementById('link');
 
 
 
-let games = ['badnews', 'bamsnes', 'bok2', 'ddsmt', 'dwm', 'ff1', 'ff1-2gba', 'ffta', 'femnn', 'kdl3', 'marpic', 'mmbn3w', 'mmx', 'mono', 'mtlb2', 'mrbcgb', 'eb0', 'pdp', 'parodius','pkmncrystal', 'pkmnemerald', 'pkmnlg', 'pkmnprism', 'pkmntcg', 'rbibb', 'shaqfu', 'smw'];
+let games = ['badnews', 'bamsnes', 'bok2', 'ddsmt', 'dwm', 'ff1', 'ff1-2gba', 'ffta', 'femnn', 'fess', 'goldensuntla', 'kdl3', 'marpic', 'mmbn3w', 'mmx', 'mono', 'mtlb2', 'mrbcgb', 'eb0', 'pdp', 'parodius','pkmncrystal', 'pkmnemerald', 'pkmnlg', 'pkmnprism', 'pkmntcg', 'rbibb', 'shaqfu', 'smw'];
 
 
 

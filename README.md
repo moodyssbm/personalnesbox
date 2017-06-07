@@ -35,6 +35,7 @@ Once you've copied and pasted the HTML document, be sure to rename it so it matc
 ---
 
 Now, open the HTML document and scroll to the bottom of the page. You'll see a section of code called:
+
 *...
 var flashvars =
 ...*
